@@ -1,3 +1,5 @@
+// import checkForDobuleSelect from "../functions/checkOptionSelect.js";
+
 import putRequest from "../functions/changeCard.js";
 import checkFields from "../functions/checkForRequiredFields.js";
 

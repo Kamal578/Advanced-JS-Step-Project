@@ -113,3 +113,36 @@ class VisitCards {
 }
 
 export default VisitCards;
+
+// // NEW DATA
+// // doctor,
+// //   name,
+// //   purpose,
+// //   description,
+// //   urgency,
+// //   lastVisit,
+// //   age,
+// //   pressure,
+// //   massIndex,
+// //   diseases,
+// //   status;
+
+// // name,
+// // doctor,
+// // showmoreBtn,
+// // description,
+// // visitPurpouse,
+// // status,
+// // priority
+
+// // Кардиолог
+// // Normal pressure,
+// // Body mass index,
+// // diseases of the cardiovascular system,
+// // age,
+
+// // Dentist
+// // last visit Date
+
+// // Therapist
+// // age
