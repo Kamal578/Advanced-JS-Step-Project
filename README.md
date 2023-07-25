@@ -1,4 +1,4 @@
-# Advanced-JS-Step-Project
+# Advanced JS Step Project
 
 Nihad
 -----------------------------------------------
